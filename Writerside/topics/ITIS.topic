@@ -30,7 +30,7 @@
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>Get started</title>
+            <title>Divisions</title>
             <a href="Systems-Analyst.topic" summary="Focus Queries and Integrations"/>
             <a href="" summary="Surveys and FTE">State Reporting</a>
             <a href="">Custom card title</a>
