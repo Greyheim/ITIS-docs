@@ -6,4 +6,8 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="14ccb0e6">
+        <description>Created after removal of "Starter" from Main</description>
+        <accepts>starter.html</accepts>
+    </rule>
 </rules>

@@ -1,6 +1,6 @@
 # Focus
 
-{(This template includes boilerplate text that you can customize, use as-is, or completely replace with your own text. This text is indicated in {curly brackets)}. Make sure you replace the placeholders with your own text.}
+## Categories
 
 | Section                     | Description    |
 |-----------------------------|----------------|

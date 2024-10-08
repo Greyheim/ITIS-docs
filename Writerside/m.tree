@@ -6,8 +6,6 @@
                  name="Main"
                  start-page="ITIS.topic">
 
-    <toc-element topic="starter.md">
-    </toc-element>
     <toc-element topic="ITIS.topic">
         <toc-element topic="Systems-Analyst.topic">
             <toc-element topic="Focus.md">
